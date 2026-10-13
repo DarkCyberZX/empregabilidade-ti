@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# gerado por bi/spec_powerbi.py, com o caminho local de bi/modelo_vagas_ti.xlsx
+bi/modelo_powerbi.json
+# arquivos de progresso e parciais da coleta
+saida/*_parcial.csv.gz
+saida/infojobs_progresso.json
+saida/log_*.txt
